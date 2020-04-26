@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>恋爱日记</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-25T13:44:49.834Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Liu Shawn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My girl</title>
+    <link href="http://yoursite.com/2020/04/25/My-girl/"/>
+    <id>http://yoursite.com/2020/04/25/My-girl/</id>
+    <published>2020-04-25T13:44:27.000Z</published>
+    <updated>2020-04-25T13:44:49.834Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天也是喜欢你的一天！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
