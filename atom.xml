@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-26T06:07:05.312Z</updated>
+  <updated>2020-04-26T13:49:43.268Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Ribs</title>
+    <link href="http://yoursite.com/2020/04/26/Ribs/"/>
+    <id>http://yoursite.com/2020/04/26/Ribs/</id>
+    <published>2020-04-26T13:42:48.000Z</published>
+    <updated>2020-04-26T13:49:43.268Z</updated>
+    
+    <content type="html"><![CDATA[<p>主要是你不错，所以你喜欢的东西也不错</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;主要是你不错，所以你喜欢的东西也不错&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="恋爱" scheme="http://yoursite.com/categories/%E6%81%8B%E7%88%B1/"/>
+    
+    
+      <category term="每日表白" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E8%A1%A8%E7%99%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>My girl</title>
     <link href="http://yoursite.com/2020/04/25/My-girl/"/>
     <id>http://yoursite.com/2020/04/25/My-girl/</id>
     <published>2020-04-25T13:44:27.000Z</published>
-    <updated>2020-04-26T06:07:05.312Z</updated>
+    <updated>2020-04-26T13:51:51.522Z</updated>
     
     <content type="html"><![CDATA[<p>今天也是喜欢你的一天！</p>]]></content>
     
@@ -35,6 +62,8 @@
     
     </summary>
     
+    
+      <category term="恋爱" scheme="http://yoursite.com/categories/%E6%81%8B%E7%88%B1/"/>
     
     
       <category term="每日表白" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E8%A1%A8%E7%99%BD/"/>
