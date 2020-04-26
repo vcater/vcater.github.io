@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>恋爱日记</title>
   
-  
+  <subtitle>与yyl的日常</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -22,6 +22,8 @@
     <id>http://yoursite.com/2020/04/25/My-girl/</id>
     <published>2020-04-25T13:44:27.000Z</published>
     <updated>2020-04-25T13:44:49.834Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天也是喜欢你的一天！</p>]]></content>
     
     <summary type="html">
     
